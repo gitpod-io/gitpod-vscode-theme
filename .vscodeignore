@@ -1,0 +1,6 @@
+.github/**
+.vscode/**
+src/**
+.gitignore
+tsconfig.json
+yarn.lock

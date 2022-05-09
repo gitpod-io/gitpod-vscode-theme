@@ -1,0 +1,50 @@
+{
+	"name": "gitpod-theme",
+	"displayName": "Gitpod Theme",
+	"description": "Gitpod Theme for VS Code",
+	"publisher": "gitpod",
+	"version": "0.0.1",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gitpod-io/gitpod-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/gitpod-io/gitpod-vscode-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.62.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"light",
+		"gitpod"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "Gitpod Dark",
+				"label": "Gitpod Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gitpod-dark-color-theme.json"
+			  },
+			  {
+				"id": "Gitpod Light",
+				"label": "Gitpod Light",
+				"uiTheme": "vs",
+				"path": "./themes/gitpod-light-color-theme.json"
+			  }
+		]
+	},
+	"scripts": {
+		"package": "vsce package --yarn --allow-star-activation"
+	},
+	"devDependencies": {
+		"ovsx": "^0.3.0",
+		"vsce": "^2.7.0"
+	}
+}
