@@ -42,7 +42,7 @@
 		]
 	},
 	"scripts": {
-		"package": "vsce package --yarn --allow-star-activation"
+		"package": "vsce package --yarn"
 	},
 	"devDependencies": {
 		"ovsx": "^0.3.0",
