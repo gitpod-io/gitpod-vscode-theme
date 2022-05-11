@@ -2,5 +2,6 @@
 .vscode/**
 src/**
 .gitignore
+.gitpod.yml
 tsconfig.json
 yarn.lock
