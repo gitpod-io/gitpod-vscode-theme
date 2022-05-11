@@ -5,6 +5,7 @@
 	"publisher": "gitpod",
 	"version": "0.0.1",
 	"license": "MIT",
+	"icon": "resources/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/gitpod-io/gitpod-vscode-theme"
