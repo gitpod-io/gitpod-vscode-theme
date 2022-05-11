@@ -9,8 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-          fetch-depth: 0
-          token: ${{ secrets.VSCODE_GITHUB_TOKEN }}
       - uses: actions/setup-node@v3
         with:
           node-version: 16
