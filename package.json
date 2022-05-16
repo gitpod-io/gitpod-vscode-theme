@@ -11,7 +11,7 @@
 		"url": "https://github.com/gitpod-io/gitpod-vscode-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/gitpod-io/gitpod-vscode-theme/issues"
+		"url": "https://github.com/gitpod-io/gitpod/issues"
 	},
 	"engines": {
 		"vscode": "^1.62.0"
