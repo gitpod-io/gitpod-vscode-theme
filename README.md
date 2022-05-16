@@ -1,19 +1,11 @@
 # Gitpod VS Code Theme
 
-Gitpod Theme for VS Code
+Gitpod Theme for VS Code 🍊
 
-## Gitpod Dark
+![browser-vscode](https://user-images.githubusercontent.com/22498066/135150975-23bba3a6-f099-48c5-83ed-a1a6627ff0e9.png)
 
-![Gitpod Dark](./resources/dark.png)
+## Install
 
-## Gitpod Light
-
-![Gitpod Light](./resources/light.png)
-
-## Installation
-
-1. Open Extensions sidebar panel in VS Code. **View → Extensions**
-2. Search for **Gitpod Theme**
-3. Click **Install** to install it.
-4. Click **Reload** to reload the editor.
-5. File > Preferences > Color Theme > Gitpod Light / Gitpod Dark
+1. Open Extensions sidebar panel in VS Code.
+2. Search for **Gitpod Theme**. 🍊
+3. Install and select **Gitpod Light** or **Gitpod Dark**. 🌘
