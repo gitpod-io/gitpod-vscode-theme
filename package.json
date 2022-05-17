@@ -3,7 +3,7 @@
 	"displayName": "Gitpod Theme",
 	"description": "Gitpod Theme for VS Code",
 	"publisher": "gitpod",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "MIT",
 	"icon": "resources/icon.png",
 	"repository": {
