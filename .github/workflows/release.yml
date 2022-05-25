@@ -13,7 +13,7 @@ jobs:
           node-version: 16
 
       - run: |
-          yarn install
+          yarn install --frozen-lockfile
 
       - name: Package extension
         id: package_vsix
